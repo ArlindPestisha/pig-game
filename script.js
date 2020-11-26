@@ -42,7 +42,7 @@ btnRollDice.addEventListener('click', function () {
         player1El.classList.toggle('player--active')
     }
 })
-//To Do:
-// 1. Look to the Flow chart to
-// 2. Roll the dice make the function 
-// 3. Add the score to the current player.
+
+btnHold.addEventListener('click', function () {
+    
+})
