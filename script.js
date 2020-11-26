@@ -12,4 +12,4 @@ diceEl.classList.add('hidden')
 //To Do:
 // 1. Look to the Flow chart to
 // 2. Roll the dice make the function 
-// 3. Add the score to the current player.
+// 3. Add the score to the current player.@
